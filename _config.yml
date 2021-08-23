@@ -1,10 +1,10 @@
 # Site settings
-title: Will Wang's Blog
-SEOTitle: 王志彪的博客
+title: Tomato's Blog
+SEOTitle: Tomato的博客
 header-img: img/post-bg-index.jpg
-email: wzbcode@163.com
+email: chauncyye@gamil.com
 description: "Every failure is leading towards success."
-keyword: "王志彪的博客, Will Wang, 王志彪, Java"
+keyword: "Tomato,java,blog"
 url: "https://flyingwzb.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/flyingwzb/flyingwzb.github.io.git" # you code repository
@@ -18,12 +18,12 @@ sidebar-avatar: /img/will-wang.jpg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-weibo_username:     wzb1994
-zhihu_username:     zongguanxian
-github_username:    flyingwzb
+weibo_username:     None
+zhihu_username:     七十七
+github_username:    Tomato2stark
 # facebook_username:  username
 # jianshu_username:   jianshu_id
-twitter_username:   wzbcode
+twitter_username:   None
 
 
 # Build settings
@@ -55,7 +55,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: flyingwzb
+ disqus_username: tomato
 
 # Gitalk
 gitalk:
@@ -72,7 +72,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ ba_track_id: 9773d94c46ec76f476476f2c771e277e
 
 # Google Analytics
 #ga_track_id: 'UA-137811562-1'            # Format: UA-xxxxxx-xx
